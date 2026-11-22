@@ -1,0 +1,10 @@
+*.vcd
+*.fst
+*.vvp
+*.out
+*.log
+*.jou
+*.str
+*.wlf
+obj_dir/
+build/
